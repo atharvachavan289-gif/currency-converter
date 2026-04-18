@@ -8,7 +8,7 @@
 
 ## 🚀 **Live Demo**
 
-👉 **[Visit the Live Application](https://www.google.com/search?q=YOUR_NETLIFY_LINK_HERE)**
+👉 **[Visit the Live Application](https://www.google.com/search?q=https://currency-converter-gamma-brown.vercel.app/)**
 
 ---
 
