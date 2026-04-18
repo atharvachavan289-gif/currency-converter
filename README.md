@@ -8,8 +8,7 @@
 
 ## 🚀 **Live Demo**
 
-👉 **[Visit the Live Application](https://www.google.com/search?q=https://currency-converter-gamma-brown.vercel.app/)**
-
+👉 **[Visit the Live Application](https://currency-converter-gamma-brown.vercel.app/)**
 ---
 
 ## 📜 **About The Project**
